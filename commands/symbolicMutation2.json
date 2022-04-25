@@ -1,0 +1,15 @@
+{
+    "axiom":"F",
+    "rules":[
+
+      {"value":"1", "equation":"F"},
+      {"value":"1", "equation":"[F]"},
+      {"value":"1", "equation":"[F-]"},
+
+      {"value":"3", "equation":"F"},
+
+      {"value":"F", "equation":"FF[+1F][-F+F][FFF]3"}
+    ],
+    "angle":25,
+    "iter":4
+}

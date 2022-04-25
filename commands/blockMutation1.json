@@ -1,0 +1,25 @@
+{
+    "axiom":"F",
+    "rules":[
+
+      {"value":"1", "equation":"[+F]"},
+      {"value":"1", "equation":"[+F+.F]"},
+      {"value":"1", "equation":"[-F-F]"},
+      {"value":"1", "equation":"[-F+F]"},
+
+      {"value":"2", "equation":"[-F-F-F]"},
+      {"value":"2", "equation":"[-F-.F]"},
+      {"value":"2", "equation":"[+F+F]"},
+      {"value":"2", "equation":"[.-F+F]"},
+
+      {"value":"3", "equation":"[-F-F]"},
+      {"value":"3", "equation":"[.F+F-F]"},
+      {"value":"3", "equation":"[F-.F]"},
+      {"value":"3", "equation":"[+F]"},
+
+      {"value":"F", "equation":"FF1+2-F3."}
+
+    ],
+    "angle":25,
+    "iter":4
+}

@@ -1,0 +1,8 @@
+{
+    "axiom":"F",
+    "rules":[
+      {"value":"F", "equation":"F[-FF]+[FFF]-FF[-F-F]"}
+    ],
+    "angle":25,
+    "iter":4
+}

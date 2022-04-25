@@ -1,0 +1,8 @@
+{
+    "axiom":"F-F-F-F",
+    "rules":[
+      {"value":"F", "equation":"FF-F+F-F-FF"}
+    ],
+    "angle":90,
+    "iter":4
+}
